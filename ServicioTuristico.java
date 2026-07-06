@@ -41,9 +41,9 @@ public class ServicioTuristico {
     // Muestra la información del servicio.
     public void mostrarInformacion() {
 
-        System.out.println("=== SERVICIO TURÍSTICO ===");
+        System.out.println("=== SERVICIO TURISTICO ===");
         System.out.println("Nombre: " + nombre);
-        System.out.println("Duración: " + duracionHoras + " horas");
+        System.out.println("Duracion: " + duracionHoras + " horas");
     }
 
     @Override
